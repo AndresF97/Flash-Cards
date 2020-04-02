@@ -1,0 +1,39 @@
+.navLink{
+    font-family: 'Righteous', cursive;
+    font-size: 24px;
+    color:black
+}
+.brand{
+    font-weight: bolder;
+    font-family: 'Righteous', cursive;
+    font-size: 32px;
+    color:black
+}
+
+.fa-plus{
+    font-size:8px;
+    font-weight: bolder;
+    top:2px;
+    color: black;
+    float:right;
+}
+.navbar{
+    background-color:#ef6a3a;
+}
+.searchBtn{
+    background-color: #ef6a3a;
+    color:black;
+    border:none
+}
+.searchBar{
+    font-family: 'Righteous', cursive;
+    color:black;
+    background-color: #ef6a3a;
+    border-radius:0px;
+    border: none;
+    border-bottom: 2px black
+}
+
+.searchBtn:hover{
+    background-color:#ef6a3a
+}
