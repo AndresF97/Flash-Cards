@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from "./components/Navbar"
 import Jumbo from "./components/InfoJumbotron"
+import SubjectArea from "./components/SubjectArea"
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Navbar />
       <Jumbo />
+      <SubjectArea/>
     </div>
   );
 }
