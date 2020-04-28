@@ -25,7 +25,7 @@ function header(){
           </Nav.Link>
           <Form inline>
           <FormControl type="text" placeholder="Search" className="mr-sm-0 searchBar" />
-          <Button className="searchBtn"><span class="fas fa-search"></span></Button>
+          <Button className="searchBtn"><span className="fas fa-search"></span></Button>
         </Form>
         </Nav>
       </Navbar.Collapse>

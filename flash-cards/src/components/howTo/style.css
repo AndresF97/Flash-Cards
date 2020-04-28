@@ -1,0 +1,7 @@
+.flashCard{
+    height:500px;
+    width:600px;
+    border: 1px 1px 1px 1px black;
+    text-align: center;
+    font-size: 30px;
+}

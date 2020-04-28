@@ -12,25 +12,25 @@ function subjects(){
             <Row>
                 <Col>
                     <h4 className="subjects">Science</h4>
-                    <div><i class="fas fa-atom fa-4x"></i></div>
+                    <div><i className="fas fa-atom fa-4x"></i></div>
                 </Col>                
                 <Col>
                     <h4 className="subjects">English</h4>
-                    <div><i class="fas fa-book-open fa-4x"></i></div>
+                    <div><i className="fas fa-book-open fa-4x"></i></div>
                 </Col>                
                 <Col>
                     <h4 className="subjects">Languages</h4>
-                    <div><i class="fas fa-atlas fa-4x"></i></div>
+                    <div><i className="fas fa-atlas fa-4x"></i></div>
                 </Col>
                 <Col>
                     <h4 className="subjects">Math</h4>
-                    <div><i class="fas fa-divide fa-4x"></i></div>
+                    <div><i className="fas fa-divide fa-4x"></i></div>
                 </Col>
             </Row>
             <Row>
             <Col>
             <div className="cardFront">
-                <div class="text-center m-5">
+                <div className="text-center m-5">
                 </div>
             </div>
             </Col>
