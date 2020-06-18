@@ -2,6 +2,11 @@
     height:300px;
     width:540px;
     border:1px solid black;
-    text-align: center;
     font-size: 30px;
+}
+.specialTitle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
