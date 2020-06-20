@@ -7,6 +7,7 @@ function howTo(){
     return(
     <>
         <Container className="text-center">
+            <h1 className="title"> Some Flashcard examples</h1>
             <Row>
             <Col>
             <h2>Front</h2>

@@ -1,0 +1,13 @@
+.footer{
+    margin-top:100px;
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    height:200px;
+    background-color: #ef6a3a;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Righteous', cursive;
+}
