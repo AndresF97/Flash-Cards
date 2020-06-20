@@ -1,20 +1,16 @@
 import React from 'react';
-import Navbar from "./components/Navbar"
-import Jumbo from "./components/InfoJumbotron"
-import SubjectArea from "./components/SubjectArea"
-import Card from "./components/howTo"
-import Footer from "./components/footer"
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom"
+import Landing from "./pages/landing"
 import './App.css';
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      <Jumbo />
-      <SubjectArea/>
-      <Card />
-      <Footer />
-    </div>
+    <Router>
+      <Switch>
+        <Route exact path="/" component={Landing} />
+        <Route exact path="/home" component={Landing} />
+      </Switch>
+    </Router>
   );
 }
 
